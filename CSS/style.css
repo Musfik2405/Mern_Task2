@@ -1,0 +1,146 @@
+.header_section{
+    display: flex;
+    
+
+}
+
+/* font style */
+
+.atkinson-hyperlegible-mono-font{
+    font-family: "Atkinson Hyperlegible Mono", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  /* font awsome */
+  .xt{
+    color: rgba(45, 47, 48, 1);
+  }
+
+  /* header section */
+
+.L_section{
+    font-size: 20px;
+    font-weight: 600;
+    color:white;
+   
+    background-color:#094B72 ;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    margin-left: 150px;
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.header_title{
+    font-size: 20px;
+    margin-top: 39px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.nav_section a{
+
+    
+
+
+    text-decoration: none;
+    color: rgba(45, 47, 48, 1);
+    font-size: 12px;
+    padding-right: 50px;
+}
+
+.nav_section{
+    
+    margin-top: 45px;
+    padding-left: 850px;
+}
+
+/* main section */
+
+.main_section{
+    display: flex;
+    /* justify-content: space-between; */
+    background-color: rgba(249, 248, 249, 1);
+}
+
+.main_title{
+    font-size: 70px;
+    color: #094B72;
+    margin-right: 440px;
+    margin-left: 60px;
+    margin-top: 250px;
+
+}
+
+.main_desc{
+    font-size: 24px;
+    color: rgba(45, 47, 48, 1);
+    margin-left: 60px;
+    margin-right: 500px;
+    margin-bottom: 70px;
+
+}
+
+.btn_p{
+    background-color: #094B72;
+    font-size: 14px;
+    padding: 15px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 60px;
+
+}
+.sec_mar{
+    margin-bottom: 70px;
+}
+
+.some_text{
+    color: rgba(139, 140, 140, 1);
+    font-size: 22px;
+    margin-left: 60px;
+    margin-top: 80px;
+}
+
+.img_container{
+    margin-right: 300px;
+    width: 549px;
+    height: 973px;
+}
+.company{
+    display:  flex;
+}
+
+.company_section{
+    margin-left: 60px;
+
+    
+    
+}
+.micro{
+    
+    display: flex;
+}
+.micro_img{
+    padding-top: 10px;
+}
+
+.airbnd{
+    display: flex;
+}
+
+.hub{
+    color: red;
+}
+
+.google{
+    padding-top: 15px;
+}
+
