@@ -144,3 +144,249 @@
     padding-top: 15px;
 }
 
+
+/* second page */
+.legalization_container{
+    display: flex;
+    column-gap: 90px;
+    margin-left: 180px;
+    margin-right: 250px;
+    margin-top: 100px;
+    background-color: rgba(242, 252, 255, 1);
+}
+
+.section_title{
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 250px;
+    margin-right: 200px;
+    /* background-color: aqua; */
+    margin-top: 170px;
+    
+}
+.some_tt{
+    margin-top: 0px;
+    font-size: 20px;
+    margin-right:230px;
+    margin-left: 258px;
+    /* background-color: aqua; */
+}
+
+.lega_con{
+    display: flex;
+    margin-top: 150px;
+    /* background-color: blue; */
+   margin-bottom: 50px;
+   margin-right: 240px;
+    
+}
+
+.service_title{
+    margin-right: 20px;
+    font-weight: 600;
+    padding-left: 10px;
+    margin-top: 10px;
+
+}
+.service_extra_margin{
+    margin-top: 22px;
+}
+
+.ser_bottom{
+    padding-bottom: 10px;
+}
+.ser_bo{
+    padding-bottom: 20px;
+}
+.service_desc{
+    font-size: 12px;
+    padding-left: 10px;
+    margin-right: 10px;
+   color: rgba(139, 140, 140, 1);
+   margin-top: -20px;
+}
+
+.lega_ex{
+    background-color:rgba(242, 252, 255, 1);
+    
+    
+    
+}
+
+.service_img{
+    padding-left: 10px;
+}
+
+.le{
+    background-color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 150px;
+    
+
+}
+
+.boy{
+    position: relative;
+    z-index: 6;
+    bottom: -5px;
+}
+.ring{
+   position: absolute;
+   left: 1088px;
+   z-index: 5;
+    
+
+}
+.water{
+    position: absolute;
+    z-index: 1;
+    right: 792px;
+    top: 1324px;
+    
+}
+
+
+/* second section */
+
+.some_partA{
+    background-color: #1282a6;
+   
+}
+.some_title{
+    font-size: 48px;
+    color: white;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+
+
+}
+.some_desc{
+    color: white;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+    font-weight: 10;
+}
+.sonme_extra{
+    margin-top: 8px;
+}
+.some_my{
+    margin-top: -50px;
+    padding-bottom: 30px;
+}
+.clicent_section{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.hrp{
+  
+   
+}
+
+.some_partB{
+    background-color: #F4FBFF;
+    margin-top: -50px;
+    padding-bottom: 100px;
+   
+
+}
+.partb_title{
+    display: flex;
+    justify-content: center;
+   padding-top: 100px;
+   font-size: 48px;
+   font-weight: 600;
+}
+
+.experience_container{
+    display: flex;
+    justify-content: center;
+    gap:50px;
+    margin-left: 50px;
+}
+.experience{
+    /* width: 540px;
+    margin-left: 200px;
+    /* background-color: white; */
+    /* padding-left: 20px; */ 
+}
+.hash{
+
+   
+     width: 540px;
+    
+    padding-left: 20px;
+    
+    background-color: white;
+}
+
+.exp_title{
+   padding-top: 20px;
+    font-size: 18px;
+    text-align: center;
+    
+}
+.exp_desc{
+    font-size: 14px;
+    color: rgba(79, 79, 79, 1);
+    text-align: center;
+    padding: 20px;
+}
+
+.toto{
+    display: flex;
+    justify-content: center;
+}
+.exp_name{
+font-size: 18px;
+margin-bottom: 0px;
+}
+.exp_position{
+    
+    color:rgba(79, 79, 79, 1) ;
+    font-size: 14px;
+}
+.toto_con{
+    /* border: 1px solid black; */
+    margin-left: 10px;
+    margin-top: -15px;
+}
+
+.complex{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+}
+
+
+.complex_title{
+    font-size: 48px;
+   
+}
+.complex_desc{
+    font-size: 24px;
+    margin-right: 34px;
+    padding-right: 150px;
+}
+
+.complex_container_text{
+    margin-left: 200px;
+}
+
+.btn_pn{
+    background-color: #094B72;
+    font-size: 14px;
+    padding: 15px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    
+}
